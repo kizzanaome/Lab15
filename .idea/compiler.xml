@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="CurrencyApp" />
+        <module name="PartC-RAG" />
+        <module name="PartD-RAG-pdf" />
         <module name="CompanyService" />
         <module name="ProfitApp" />
         <module name="SemanticSearch" />
@@ -17,6 +19,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="CompanyService" options="-parameters" />
       <module name="CurrencyApp" options="-parameters" />
+      <module name="PartC-RAG" options="-parameters" />
+      <module name="PartD-RAG-pdf" options="-parameters" />
       <module name="ProfitApp" options="-parameters" />
       <module name="SemanticSearch" options="-parameters" />
     </option>

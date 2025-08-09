@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/PartA/CurrencyApp/pom.xml" />
         <option value="$PROJECT_DIR$/PartA/CompanyService/pom.xml" />
         <option value="$PROJECT_DIR$/SemanticSearch/pom.xml" />
+        <option value="$PROJECT_DIR$/PartC-RAG/pom.xml" />
+        <option value="$PROJECT_DIR$/PartD-RAG-pdf/pom.xml" />
       </list>
     </option>
   </component>
